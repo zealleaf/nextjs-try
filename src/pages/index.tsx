@@ -28,7 +28,7 @@ export default function Home({ allPostsData }: IHome) {
         </Head>
         <section className={utilStyles.headingMd}>
           <p>
-            Hello, I&apos;am zealleaf. I&apos;m a software enginer. I&apos;m
+            👋 Hi! I&apos;am zealleaf. I&apos;m a software enginer. I&apos;m
             trying next.js, which is a blog project I built following the
             official tutorial.
           </p>
